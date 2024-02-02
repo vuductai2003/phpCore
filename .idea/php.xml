@@ -2,12 +2,12 @@
 <project version="4">
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="1e2b89a5-8eb3-458e-b2d5-3f09bddd5a0b" name="PHP" home="E:\laragon\bin\php\php-8.3.2-Win32-vs16-x64\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="1e2b89a5-8eb3-458e-b2d5-3f09bddd5a0b" name="PHP (project level)" home="E:\laragon\bin\php\php-8.3.2-Win32-vs16-x64\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP">
+      <interpreter name="PHP (project level)">
         <phpinfo binary_type="PHP" php_cgi="E:\laragon\bin\php\php-8.3.2-Win32-vs16-x64\php-cgi.exe" php_cli="E:\laragon\bin\php\php-8.3.2-Win32-vs16-x64\php.exe" path_separator=";" version="8.3.2">
           <additional_php_ini />
           <configuration_file>E:\laragon\bin\php\php-8.3.2-Win32-vs16-x64\php.ini</configuration_file>

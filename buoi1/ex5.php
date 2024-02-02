@@ -4,8 +4,8 @@ $check = filter_var($number, FILTER_VALIDATE_INT);
 $checkfl = is_float($number);
 var_dump($checkfl);
 
-
-
+$random = rand();
+echo $random . '<br>';
 /*
  * Kiểm tra kiểu số: is_numeric($ten_bien) hoặc filter_var()
  * Kiểm tra kiểu số nguyên: is_int($ten_bien) hoặc is_integer($ten_bien)
